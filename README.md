@@ -38,8 +38,7 @@ surface itself. Some examples for the “database” might include:
 If possible, submit your source to a public SCM host (Preferably Git based) and provide Global Kinetic
 with access details and documentation on how to run your project(s).
 Assessment will be based on:
-o Meeting the requirements specified.
-o Proficiency using the required technologies & best practices.
-o SCM usage.
-o Documentation (if any, can be in simple markdown format).
-
+- Meeting the requirements specified.
+- Proficiency using the required technologies & best practices.
+- SCM usage.
+- Documentation (if any, can be in simple markdown format).
